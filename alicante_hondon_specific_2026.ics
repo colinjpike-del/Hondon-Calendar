@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Alicante Specific 2026//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:🇪🇸 Alicante + Hondón Specific 2026
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:alicante-specific-2026-1@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:🎉 Hondón de los Frailes: San Antonio weekend reminder
+DESCRIPTION:Traditional Hondón de los Frailes celebration held on the weekend nearest 17 January.
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-2@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:🏘️🔴 Hondón de las Nieves local holiday: Último Jueves
+DESCRIPTION:Official local holiday in Hondón de las Nieves for 2026.
+CATEGORIES:hondon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-3@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260414
+SUMMARY:🏫 School holidays: Pascua / Easter break
+DESCRIPTION:Comunitat Valenciana school holiday period for the 2025–2026 school year.
+CATEGORIES:school
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-4@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:🏛️🔴 Alicante local holiday: Santa Faz
+DESCRIPTION:Official local holiday in the city of Alicante for 2026.
+CATEGORIES:alicante
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-5@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:🏫 Alicante schools: no lectivo / non-teaching day
+DESCRIPTION:Alicante city non-teaching day for the 2025–2026 school year (bridge after Santa Faz).
+CATEGORIES:school
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-6@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:❤️ Mother’s Day in Spain
+DESCRIPTION:Celebrated in Spain on the first Sunday of May. Reminder only\, not a public holiday.
+CATEGORIES:observance
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-7@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:🎉 Hondón de los Frailes: San Isidro weekend reminder
+DESCRIPTION:Traditional Hondón de los Frailes celebration held on the weekend nearest 15 May.
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-8@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:🏛️🔴 Alicante local holiday: Hogueras de San Juan
+DESCRIPTION:Official local holiday in the city of Alicante for 2026.
+CATEGORIES:alicante
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-9@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:🏘️🔴 Hondón de las Nieves local holiday: Virgen de las Nieves
+DESCRIPTION:Official local holiday in Hondón de las Nieves for 2026.
+CATEGORIES:hondon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-10@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:🎉 Hondón de los Frailes: Patronal fiestas begin (approx.)
+DESCRIPTION:Traditional patronal fiestas run from Thursday to Monday around the last Sunday of August.
+CATEGORIES:festival
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:alicante-specific-2026-11@openai.local
+DTSTAMP:20260314T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:🏘️🔴 Hondón de los Frailes local holiday: Fiestas Patronales
+DESCRIPTION:Official local holiday in Hondón de los Frailes for 2026.
+CATEGORIES:hondon
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
